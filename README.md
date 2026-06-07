@@ -87,9 +87,9 @@ Demonstrates strong mathematical foundations and Excel proficiency.
 
 I'm actively looking for data analyst internships. If you're interested in my work or have opportunities, reach out!
 
-- **LinkedIn:** [linkedin.com/in/tanvi-joshi](https://linkedin.com/in/tanvi-joshi)
+- **LinkedIn:** [linkedin.com/in/tanvi-joshi-0825b23a4](https://www.linkedin.com/in/tanvi-joshi-0825b23a4) 
 - **Email:** [joshitanvi005@gmail.com](mailto:joshitanvi005@gmail.com)
-- **GitHub:** [github.com/tanvi-joshi](https://github.com/tanvi-joshi)
+- **GitHub:** [github.com/joshitanvi005-blip](https://github.com/joshitanvi005-blip)
 
 ---
 
